@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+# never commit identity material
+*.pem
+*.key
+*.bak
+state.json
+retry.log
+
+.DS_Store
